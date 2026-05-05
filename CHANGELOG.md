@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/KhanhTQ-Organization/com.ktgame.unregister/compare/v1.0.3...v1.0.4) (2026-05-05)
+
+
+### Bug Fixes
+
+* new config ([d988f9e](https://github.com/KhanhTQ-Organization/com.ktgame.unregister/commit/d988f9e43acefd9e825c4671480dab4d8cbe6679))
+
 ## [1.0.3](https://github.com/KhanhTQ-Organization/com.ktgame.unregister/compare/v1.0.2...v1.0.3) (2026-05-05)
 
 
