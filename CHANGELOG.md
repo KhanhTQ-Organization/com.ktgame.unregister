@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/KhanhTQ-Organization/com.ktgame.unregister/compare/v1.0.4...v1.0.5) (2026-08-21)
+
+
+### Bug Fixes
+
+* update ([10c5aa9](https://github.com/KhanhTQ-Organization/com.ktgame.unregister/commit/10c5aa93f9fb983ef5b5c60207324e3dd27ea691))
+
 ## [1.0.4](https://github.com/KhanhTQ-Organization/com.ktgame.unregister/compare/v1.0.3...v1.0.4) (2026-05-05)
 
 
