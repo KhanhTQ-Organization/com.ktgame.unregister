@@ -2,7 +2,7 @@ using System;
 
 namespace com.ktgame.unregister
 {
-    public struct UnRegister : IUnRegister
+    public class UnRegister : IUnRegister
     {
         private Action _onUnRegister;
 
@@ -13,7 +13,7 @@ namespace com.ktgame.unregister
 
         void IUnRegister.UnRegister()
         {
-            _onUnRegister.Invoke();
+            _onUnRegister?.Invoke();
             _onUnRegister = null;
         }
     }

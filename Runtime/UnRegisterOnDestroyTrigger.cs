@@ -19,9 +19,9 @@ namespace com.ktgame.unregister
 
         private void OnDestroy()
         {
-            foreach (var unRegister in _unRegisters)
+            for (int i = _unRegisters.Count - 1; i >= 0; i--)
             {
-                unRegister.UnRegister();
+                _unRegisters[i].UnRegister();
             }
 
             _unRegisters.Clear();
